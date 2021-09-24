@@ -30,7 +30,7 @@ multi_adaboost_CNN.py
 CRBPDL.py
 
 The tool is developed for circRNA-RBP interaction sites identification using deep hierarchical network
-![image](https://github.com/nmt315320/CRBPDL/Architecture.png)
+![image](https://github.com/nmt315320/CRBPDL/blob/87a21f00c1441e48969a7f50c79b28782dad3053/Architecture.png)
 # Requirements
 - Python 3.7 (64-bit)
 - Keras 2.2.0 in Python
