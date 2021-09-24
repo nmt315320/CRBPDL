@@ -16,18 +16,28 @@ You should have received a copy of the GNU General Public License along with thi
 Files: 1.data
 
 circRNA-RBP:37 datasets
+
 lnRNA-RBP :31 datasets
+
 
 2.code
 
 getData.py 
+
 AnalyseFASTA.py
+
 basic_units.py
+
 Deal_Kmer.py
+
 DProcess.py
+
 attention.py
+
 multi_adaboost_CNN.py 
+
 CRBPDL.py
+
 
 The tool is developed for circRNA-RBP interaction sites identification using deep hierarchical network
 ![image](https://github.com/nmt315320/CRBPDL/blob/87a21f00c1441e48969a7f50c79b28782dad3053/Architecture.png)
